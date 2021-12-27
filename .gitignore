@@ -12,6 +12,8 @@ target/
 .settings
 .springBeans
 .sts4-cache
+### 비번 ###
+.properties
 
 ### IntelliJ IDEA ###
 .idea
